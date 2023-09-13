@@ -1,0 +1,6 @@
+[submodule "blog/themes/binario"]
+	path = blog/themes/binario
+	url = https://github.com/vimux/binario
+[submodule "blog/brutalist-minimalist-gohugo-theme"]
+	path = blog/brutalist-minimalist-gohugo-theme
+	url = https://gitlab.com/m-e-leypold/brutalist-minimalist-gohugo-theme
